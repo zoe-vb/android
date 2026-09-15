@@ -20,7 +20,7 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
-  <remote name="zoevb"
+  <remote name="zoe-vb"
           fetch="https://github.com/" />
   <project path="build" name="androidarmv6/android_build" groups="pdk">
     <copyfile src="core/root.mk" dest="Makefile" />
